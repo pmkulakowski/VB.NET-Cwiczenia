@@ -1,0 +1,11 @@
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStart.resources
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDrugi.resources
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Rozdzial2.vbproj.GenerateResource.Cache
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\pmk\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmZdarzenia.resources
