@@ -1,0 +1,12 @@
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\bin\Debug\Rozdzial5.exe
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\bin\Debug\Rozdzial5.pdb
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\bin\Debug\Rozdzial5.xml
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\obj\x86\Debug\Rozdzial5.frmInstrukcjeWarunkowe.resources
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\obj\x86\Debug\Rozdzial5.Resources.resources
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\obj\x86\Debug\Rozdzial5.vbproj.GenerateResource.Cache
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\obj\x86\Debug\Rozdzial5.exe
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\obj\x86\Debug\Rozdzial5.xml
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial5\obj\x86\Debug\Rozdzial5.pdb
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial5\Rozdzial5\Rozdzial5\obj\x86\Debug\Rozdzial5.exe
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial5\Rozdzial5\Rozdzial5\obj\x86\Debug\Rozdzial5.xml
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial5\Rozdzial5\Rozdzial5\obj\x86\Debug\Rozdzial5.pdb
