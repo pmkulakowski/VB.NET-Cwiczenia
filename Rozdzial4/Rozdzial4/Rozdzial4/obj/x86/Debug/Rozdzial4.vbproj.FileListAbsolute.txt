@@ -1,0 +1,12 @@
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\bin\Debug\Rozdzial4.exe
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\bin\Debug\Rozdzial4.pdb
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\bin\Debug\Rozdzial4.xml
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\obj\x86\Debug\Rozdzial4.frmProcedury.resources
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\obj\x86\Debug\Rozdzial4.Resources.resources
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\obj\x86\Debug\Rozdzial4.vbproj.GenerateResource.Cache
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\obj\x86\Debug\Rozdzial4.exe
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\obj\x86\Debug\Rozdzial4.xml
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial4\obj\x86\Debug\Rozdzial4.pdb
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial4\Rozdzial4\Rozdzial4\obj\x86\Debug\Rozdzial4.exe
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial4\Rozdzial4\Rozdzial4\obj\x86\Debug\Rozdzial4.xml
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial4\Rozdzial4\Rozdzial4\obj\x86\Debug\Rozdzial4.pdb
