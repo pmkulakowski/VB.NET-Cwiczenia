@@ -21,7 +21,7 @@
         Return MyBase.WyliczVAT * 5
     End Function
 
-    Public Shared Shadows Sub Dzis(ByVal parameter As Object)
+    Public Shared Shadows Sub Dzisiaj(ByVal parameter As Object)
         MsgBox("Ukryliśmy metodę klasy bazowej")
     End Sub
 

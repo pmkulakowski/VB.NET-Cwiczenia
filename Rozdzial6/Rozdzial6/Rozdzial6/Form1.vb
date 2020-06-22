@@ -62,7 +62,8 @@
         lblZPodatek.Text = Zwierze1.Podatek
         frmZ.Text = frmZ.Text + " odpowiada: " + Towar2.OsobaOdpowiedzialna
 
-        MsgBox(Zwierze.Dzisiaj)
+        'MsgBox(Zwierze.Dzisiaj())
+        Zwierze.Dzisiaj(Towar1)
     End Sub
 
     Private Sub frmKlasy_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
