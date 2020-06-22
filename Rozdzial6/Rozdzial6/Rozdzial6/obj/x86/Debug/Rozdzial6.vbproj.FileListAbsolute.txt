@@ -1,0 +1,12 @@
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\bin\Debug\Rozdzial6.exe
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\bin\Debug\Rozdzial6.pdb
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\bin\Debug\Rozdzial6.xml
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\obj\x86\Debug\Rozdzial6.frmKlasy.resources
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\obj\x86\Debug\Rozdzial6.Resources.resources
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\obj\x86\Debug\Rozdzial6.vbproj.GenerateResource.Cache
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\obj\x86\Debug\Rozdzial6.exe
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\obj\x86\Debug\Rozdzial6.xml
+C:\Users\p.kulakowski\AppData\Local\Temporary Projects\Rozdzial6\obj\x86\Debug\Rozdzial6.pdb
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial6\Rozdzial6\Rozdzial6\obj\x86\Debug\Rozdzial6.exe
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial6\Rozdzial6\Rozdzial6\obj\x86\Debug\Rozdzial6.xml
+C:\Visual Basic\VB.NET-Cwiczenia\Rozdzial6\Rozdzial6\Rozdzial6\obj\x86\Debug\Rozdzial6.pdb
