@@ -1,0 +1,10 @@
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\bin\Debug\Rozdzial7.exe
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\bin\Debug\Rozdzial7.pdb
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\bin\Debug\Rozdzial7.xml
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\obj\x86\Debug\Rozdzial7.frmDane.resources
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\obj\x86\Debug\Rozdzial7.Resources.resources
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\obj\x86\Debug\Rozdzial7.vbproj.GenerateResource.Cache
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\obj\x86\Debug\Rozdzial7.exe
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\obj\x86\Debug\Rozdzial7.xml
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\obj\x86\Debug\Rozdzial7.pdb
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial7\Rozdzial7\Rozdzial7\bin\Debug\Notrhwind.mdb
