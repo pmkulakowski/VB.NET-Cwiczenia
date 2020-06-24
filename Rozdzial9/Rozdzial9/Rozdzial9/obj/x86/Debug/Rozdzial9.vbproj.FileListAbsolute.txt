@@ -1,0 +1,12 @@
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\bin\Debug\Rozdzial9.exe
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\bin\Debug\Rozdzial9.pdb
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\bin\Debug\Rozdzial9.xml
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\obj\x86\Debug\Rozdzial9.frmBledy.resources
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\obj\x86\Debug\Rozdzial9.Resources.resources
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\obj\x86\Debug\Rozdzial9.vbproj.GenerateResource.Cache
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\obj\x86\Debug\Rozdzial9.exe
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\obj\x86\Debug\Rozdzial9.xml
+C:\Users\pmk\AppData\Local\Temporary Projects\Rozdzial9\obj\x86\Debug\Rozdzial9.pdb
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial9\Rozdzial9\Rozdzial9\obj\x86\Debug\Rozdzial9.exe
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial9\Rozdzial9\Rozdzial9\obj\x86\Debug\Rozdzial9.xml
+D:\Visual Basic\VB.NET-Cwiczenia\Rozdzial9\Rozdzial9\Rozdzial9\obj\x86\Debug\Rozdzial9.pdb
